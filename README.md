@@ -64,6 +64,7 @@ This repository follows industry-standard data project organization:
 ### Prerequisites
 * Python 3.8 or higher
 * Git
+* Download This Data : https://www.kaggle.com/datasets/ealaxi/paysim1
 
 ### Installation
 1. Clone the repository:
